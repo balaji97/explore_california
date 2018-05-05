@@ -1,5 +1,8 @@
-This is the second temporary file.
+dThis is the second temporary file.
 
 These changes will not be tracked anymore.
 
 These changes are still tracked
+
+You are still tracked
+
